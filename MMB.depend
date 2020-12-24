@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1608785733 source:c:\users\hp\documents\c-language\mmb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"MMB.h"
+	<string.h>
+
+1608785751 c:\users\hp\documents\c-language\mmb\mmb.h
+	<stdint.h>
+	<uchar.h>
+
+1608785908 source:c:\users\hp\documents\c-language\mmb\mmb.c
+	<stdint.h>
+	"MMB.h"
+	<assert.h>
+	<string.h>
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+#ifndef APPCONST_H_INCLUDED
+#define APPCONST_H_INCLUDED
+
+#define TOTAL_CUST 1000
+
+
+
+#endif // APPCONST_H_INCLUDED
